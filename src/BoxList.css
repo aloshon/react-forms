@@ -1,0 +1,7 @@
+.boxlist{
+    position: relative;
+    margin: 0 auto;
+    width: 800px;
+    height: 800px;
+    border: solid 1px black;
+}
